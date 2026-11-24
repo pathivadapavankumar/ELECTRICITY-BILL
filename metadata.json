@@ -1,0 +1,6 @@
+{
+  "name": "VoltPlain — Smart Electricity Bill Explainer",
+  "description": "Analyze electricity bills from images, PDFs, or text into plain-language charge breakdowns, month-over-month comparisons, and spike alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
